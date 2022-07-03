@@ -1,0 +1,11 @@
+import bootstrap from '../node_modules/bootstrap/dist/css/bootstrap.css';
+import bootstrapjs from '../node_modules/bootstrap/dist/js/bootstrap.js';
+import slidecss from './assets/assets/css/Simple-Slider.css';
+import navbarcss from './assets/assets/css/Navbar-Right-Links-Dark.css';
+import bootstrapjsmin from './assets/assets/bootstrap/css/bootstrap.min.css';
+// import slidejs from './assets/assets/js/Simple-Slider.js';
+// import bootstrapmincss from './assets/assets/bootstrap/css/bootstrap.min.css';
+// import bootstrapminjs from './assets/assets/bootstrap/js/bootstrap.min.js';
+// export default {bootstrap, slidecss, slidejs, bootstrapmincss, bootstrapminjs};
+// export default {bootstrap, slidecss, slidejs};
+export default {bootstrap, bootstrapjs ,slidecss, navbarcss, bootstrapjsmin};
